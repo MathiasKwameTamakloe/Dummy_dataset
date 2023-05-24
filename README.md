@@ -1,6 +1,7 @@
 # Dummy_dataset for Cast Social
 
 You can access the zip file for the Dummy_dataset here; https://drive.google.com/file/d/1-AhVyjYG-EF_6QPbp9Y6jkTx3amBRUna/view?usp=drive_link
+
 The code begins by importing the necessary libraries: pandas, random, and Faker. pandas is used for data manipulation and analysis, random for generating random values, and Faker for generating fake data.
 
 The generate_dummy_dataset function is defined. It takes two parameters: num_records, which specifies the number of records to generate, and columns, which represents the list of column names for the dataset.
